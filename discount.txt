@@ -1,1 +1,1 @@
-DISCOUNT=10%
+DISCOUNT=broken
