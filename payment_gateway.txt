@@ -1,1 +1,1 @@
-provider=stripe-v2
+provider=stripe-v3
