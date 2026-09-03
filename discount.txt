@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 DISCOUNT=80%
-=======
-discount=20%
->>>>>>> conflict-test
+
